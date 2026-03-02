@@ -1,3 +1,14 @@
+---
+title: "Bollos de canela"
+slug: "bollo-de-canela"
+description: "Bollos de canela Suecas (Kanelbullar), siendo en mi opinión, mejores que los rollitos de canela americanos, ofreciendo una buena combinación de textura: crujiente por fuera y esponjoso por dentro acentuando el rico sabor de la canela y del cardamomo"
+tags: ["dulce", "repostería"]
+prepTime: "2h45m"
+cookTime: "15m"
+servings: "12-14"
+image: "https://i.postimg.cc/nrZpZ8BZ/PXL-20231222-213058953.jpg"
+---
+
 ## Ingredientes para la masa
 
 - 236 ml leche
